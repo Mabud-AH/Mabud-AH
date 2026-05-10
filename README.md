@@ -97,7 +97,7 @@ A powerful inventory management bot built with Python.
 
 ### 💖 Support My Work
 
-If you like my work, consider supporting me:
+If you're in Iran 🇮🇷 and would like to support me directly, you can scan the BluBank QR code below or use the card number provided.
 
 - 💳 **BluBank (Iran):** 6219-8619-0902-0223 (Mabud Ahmadi - Bank Saman)
 
